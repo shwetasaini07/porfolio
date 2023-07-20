@@ -32,7 +32,7 @@
 
 ![house](https://github.com/shwetasaini07/porfolio/assets/38052962/66a94769-2ead-4fee-893b-4d9547f17909)
      
-- [Download as PDF](https://raw.githubusercontent.com/shwetasaini07/porfolio/master/Final Project pdf.pdf)
+- [Download as PDF](https://raw.githubusercontent.com/shwetasaini07/porfolio/master/pdf/House_Sale.pdf)
 
 
 
