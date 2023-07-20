@@ -27,5 +27,8 @@
 - Conducted comprehensive testing of new technical enhancements, resulting in minimal production issues and seamless transactions.
 
 ### Data Science Projects (Kaggle)
+#### House Sale Prediction 
+- This project endeavors to construct a machine-learning model that predicts home sale prices based on a diverse range of factors.
+[Link to PDF]
 
 
