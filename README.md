@@ -1,4 +1,10 @@
-# shweta_porfolio
-Data Science Porfolio
+# Senior Business Analyst
 
-Hello My name is Shweta Saini 
+### Education
+Master of Data Analytics 
+Bachelor in Technology - Computer Science and Engineering
+
+### Work Experience
+Senior Business Analyst@ HealthKart 
+Data Analyst@ Zomato 
+Analyst@ TATA Consultancy Services 
