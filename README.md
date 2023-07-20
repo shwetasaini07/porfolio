@@ -35,7 +35,8 @@
 - [Download code file as PDF](https://raw.githubusercontent.com/shwetasaini07/portfolio/master/pdf/House_Sale.pdf)
   
  <iframe src="https://shwetasaini07.github.io/Projects/" width="100%" height="500px"></iframe>
-- [Click To View](https://github.com/shwetasaini07/Projects/main/README.md)
+ [Visit OpenAI's GitHub](https://shwetasaini07.github.io/Projects){:target="_blank"}
+
 
 
 
