@@ -32,7 +32,8 @@
 
 ![house](https://github.com/shwetasaini07/portfolio/assets/38052962/66a94769-2ead-4fee-893b-4d9547f17909)
      
-- [Download code file](https://raw.githubusercontent.com/shwetasaini07/portfolio/master/pdf/House_Sale.pdf)
+- [Download code file as PDF](https://raw.githubusercontent.com/shwetasaini07/portfolio/master/pdf/House_Sale.pdf)
+- [Click to Read Contents](https://github.com/shwetasaini07/projects/blob/main/README.md)
 
 
 
