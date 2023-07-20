@@ -29,7 +29,7 @@
 ### Data Science Projects (Kaggle)
 #### House Sale Prediction 
 - This project endeavors to construct a machine-learning model that predicts home sale prices based on a diverse range of factors.
-[Link to PDF](https://raw.githubusercontent.com/shwetasaini07/porfolio/master/path/to/Final Project pdf.pdf)
+- [Link to PDF](https://raw.githubusercontent.com/shwetasaini07/porfolio/master/Final Project pdf.pdf)
 
 
 
