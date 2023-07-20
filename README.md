@@ -26,6 +26,6 @@
 - Successfully managed multiple product releases and served as the primary point of contact for Apple's trade-in and upgrade program in APAC and EMEA regions.
 - Conducted comprehensive testing of new technical enhancements, resulting in minimal production issues and seamless transactions.
 
-
+### Data Science Projects (Kaggle)
 
 
