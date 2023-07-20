@@ -30,9 +30,9 @@
 #### House Sale Prediction 
 - This project endeavors to construct a machine-learning model that predicts home sale prices based on a diverse range of factors.
 
-![house](https://github.com/shwetasaini07/porfolio/assets/38052962/66a94769-2ead-4fee-893b-4d9547f17909)
+![house](https://github.com/shwetasaini07/portfolio/assets/38052962/66a94769-2ead-4fee-893b-4d9547f17909)
      
-- [Download code file](https://raw.githubusercontent.com/shwetasaini07/porfolio/master/pdf/House_Sale.pdf)
+- [Download code file](https://raw.githubusercontent.com/shwetasaini07/portfolio/master/pdf/House_Sale.pdf)
 
 
 
