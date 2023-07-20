@@ -32,9 +32,9 @@
 
 ![house](https://github.com/shwetasaini07/portfolio/assets/38052962/66a94769-2ead-4fee-893b-4d9547f17909)
      
-- [Download code file as PDF](https://raw.githubusercontent.com/shwetasaini07/portfolio/master/pdf/House_Sale.pdf)
+- [Download Code as PDF](https://raw.githubusercontent.com/shwetasaini07/portfolio/master/pdf/House_Sale.pdf)
 
-- [Click To Visualize](https://shwetasaini07.github.io/Projects){:target="_blank"}
+- [Project Summary](https://shwetasaini07.github.io/Projects){:target="_blank"}
   
  <iframe src="https://shwetasaini07.github.io/Projects/" width="100%" height="500px"></iframe>
  
