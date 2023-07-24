@@ -27,7 +27,16 @@
 - Conducted comprehensive testing of new technical enhancements, resulting in minimal production issues and seamless transactions.
 
 ### Data Science Projects (Kaggle)
-#### House Sale Prediction 
+
+#### Sales Forecasting - Time Series Analysis
+- This project forecasts the future sales of a store using Time Series Analysis
+
+![logo](https://github.com/shwetasaini07/Time-Series-Analysis/assets/38052962/cb145a42-6c7b-403f-83c1-e434e53831b4)
+
+- [Download Code as PDF](https://raw.githubusercontent.com/shwetasaini07/portfolio/master/pdf/Sales Forecasting.pdf)
+
+
+#### House Price Sale Prediction 
 - This project endeavors to construct a machine-learning model that predicts home sale prices based on a diverse range of factors.
 
 ![house](https://github.com/shwetasaini07/portfolio/assets/38052962/66a94769-2ead-4fee-893b-4d9547f17909)
