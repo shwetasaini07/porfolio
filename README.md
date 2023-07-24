@@ -26,9 +26,9 @@
 - Successfully managed multiple product releases and served as the primary point of contact for Apple's trade-in and upgrade program in APAC and EMEA regions.
 - Conducted comprehensive testing of new technical enhancements, resulting in minimal production issues and seamless transactions.
 
-### Data Science Projects (Kaggle)
+## Data Science Projects (Kaggle)
 
-#### Sales Forecasting - Time Series Analysis
+### Sales Forecasting - Time Series Analysis
 - This project forecasts the future sales of a store using Time Series Analysis
 
 ![logo](https://github.com/shwetasaini07/Time-Series-Analysis/assets/38052962/cb145a42-6c7b-403f-83c1-e434e53831b4)
@@ -40,7 +40,7 @@
 &nbsp;
 &nbsp;
 
-#### House Price Sale Prediction 
+### House Price Sale Prediction 
 - This project endeavors to construct a machine-learning model that predicts home sale prices based on a diverse range of factors.
 
 ![house](https://github.com/shwetasaini07/portfolio/assets/38052962/66a94769-2ead-4fee-893b-4d9547f17909)
