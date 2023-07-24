@@ -33,22 +33,19 @@
 
 ![logo](https://github.com/shwetasaini07/Time-Series-Analysis/assets/38052962/cb145a42-6c7b-403f-83c1-e434e53831b4)
 
-- [Download Code as PDF](https://raw.githubusercontent.com/shwetasaini07/portfolio/master/pdf/Sales_Forecasting.pdf)
+- **[Download Code as PDF](https://raw.githubusercontent.com/shwetasaini07/portfolio/master/pdf/Sales_Forecasting.pdf)**
 
 
 <iframe src="https://shwetasaini07.github.io/Time-Series-Analysis/" width="100%" height="500px"></iframe>
-
-
-
-
-
+&nbsp;
+&nbsp;
 
 #### House Price Sale Prediction 
 - This project endeavors to construct a machine-learning model that predicts home sale prices based on a diverse range of factors.
 
 ![house](https://github.com/shwetasaini07/portfolio/assets/38052962/66a94769-2ead-4fee-893b-4d9547f17909)
-     
-- [Download Code as PDF](https://raw.githubusercontent.com/shwetasaini07/portfolio/master/pdf/House_Sale.pdf)
+
+- **[Download Code as PDF](https://raw.githubusercontent.com/shwetasaini07/portfolio/master/pdf/House_Sale.pdf)**
 
  
  <iframe src="https://shwetasaini07.github.io/Projects/" width="100%" height="500px"></iframe>
