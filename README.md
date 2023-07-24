@@ -40,6 +40,19 @@
 &nbsp;
 &nbsp;
 
+### Mall Customer Segmentation - Clustering
+- This project categorizes customers according to their buying behaviors.
+
+![logo](https://github.com/shwetasaini07/Customer-Segmentation/assets/38052962/5103aa6c-e233-45b5-9bfc-5ad55e331528)
+
+- **[Download Code as PDF](https://raw.githubusercontent.com/shwetasaini07/portfolio/master/pdf/Mall_Customer_Segmentation_Data.pdf)**
+
+
+<iframe src="https://shwetasaini07.github.io/Customer-Segmentation/" width="100%" height="500px"></iframe>
+&nbsp;
+&nbsp;
+
+
 ### House Price Sale Prediction 
 - This project endeavors to construct a machine-learning model that predicts home sale prices based on a diverse range of factors.
 
