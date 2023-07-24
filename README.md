@@ -40,6 +40,9 @@
 
 
 
+
+
+
 #### House Price Sale Prediction 
 - This project endeavors to construct a machine-learning model that predicts home sale prices based on a diverse range of factors.
 
