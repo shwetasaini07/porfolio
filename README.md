@@ -22,9 +22,10 @@
 
   #### Analyst – TATA Consultancy Services 
 - Key focus areas: Apple (POS) application.
-- Proactively identified and reported exceptional cases in logs, facilitating prompt resolution of micro-services failures in production.
-- Successfully managed multiple product releases and served as the primary point of contact for Apple's trade-in and upgrade program in APAC and EMEA regions.
-- Conducted comprehensive testing of new technical enhancements, resulting in minimal production issues and seamless transactions.
+- Defect Trend Analysis: Conducted in-depth analysis of defect trends over multiple test cycles to identify recurring issues and root causes, leading to a 20% reduction in the defect rate in production.
+- Managed Mac-Trade In expansion in EMEA for Apple (POS), overseeing technical testing, logging exceptional cases, and ensuring smooth integrations in production.
+- Recognized recurrent user behavior patterns and integrated them into test case scenarios.
+
 
 ## Data Science Projects (Kaggle)
 
