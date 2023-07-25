@@ -21,7 +21,7 @@
 - Automated daily revenue numbers, enabling prompt and proactive business actions.
 
   #### Analyst – TATA Consultancy Services 
-- Key focus areas: Apple Point of Sale application.
+- Key focus areas: Apple (POS) application.
 - Proactively identified and reported exceptional cases in logs, facilitating prompt resolution of micro-services failures in production.
 - Successfully managed multiple product releases and served as the primary point of contact for Apple's trade-in and upgrade program in APAC and EMEA regions.
 - Conducted comprehensive testing of new technical enhancements, resulting in minimal production issues and seamless transactions.
