@@ -41,6 +41,18 @@
 &nbsp;
 &nbsp;
 
+
+### Twitter Sentiment Analysis - NLP
+- This project analyzes tweets from individuals and categorizes them as negative, positive, or neutral using Natural Language Processing model.
+- ![Twitter_Logo](https://github.com/shwetasaini07/portfolio/assets/38052962/c3db19b9-3cc3-40bc-aae6-35f7b08c9979)
+
+- **[Download Code as PDF](https://raw.githubusercontent.com/shwetasaini07/portfolio/master/pdf/pdf/Twitter_Sentiment _Analysis.pdf)**
+
+<iframe src="https://shwetasaini07.github.io/sentiment-analysis/" width="100%" height="500px"></iframe>
+&nbsp;
+&nbsp;
+
+
 ### Mall Customer Segmentation - Clustering
 - This project categorizes customers according to their buying behaviors.
 
@@ -55,7 +67,7 @@
 
 
 ### House Price Sale Prediction 
-- This project endeavors to construct a machine-learning model that predicts home sale prices based on a diverse range of factors.
+- This project endeavors to construct a machine-learning model that predicts home sale prices based on various factors.
 
 ![house](https://github.com/shwetasaini07/portfolio/assets/38052962/66a94769-2ead-4fee-893b-4d9547f17909)
 
