@@ -44,6 +44,8 @@
 
 ### Twitter Sentiment Analysis - NLP
 - This project analyzes tweets from individuals and categorizes them as negative, positive, or neutral using Natural Language Processing model.
+
+
 ![Twitter_Logo](https://github.com/shwetasaini07/portfolio/assets/38052962/c3db19b9-3cc3-40bc-aae6-35f7b08c9979)
 
 - **[Download Code as PDF](https://raw.githubusercontent.com/shwetasaini07/portfolio/master/pdf/pdf/Twitter_Sentiment _Analysis.pdf)**
