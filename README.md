@@ -48,7 +48,7 @@
 
 - **[Download Code as PDF](https://raw.githubusercontent.com/shwetasaini07/portfolio/master/pdf/pdf/Twitter_Sentiment _Analysis.pdf)**
 
-<iframe src="https://shwetasaini07.github.io/sentiment-analysis/" width="100%" height="500px"></iframe>
+<iframe src="https://shwetasaini07.github.io/Sentiment-Analysis/" width="100%" height="500px"></iframe>
 &nbsp;
 &nbsp;
 
