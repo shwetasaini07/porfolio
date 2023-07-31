@@ -46,7 +46,7 @@
 - This project analyzes tweets from individuals and categorizes them as negative, positive, or neutral using Natural Language Processing model.
 
 
-![Twitter_Logo](https://github.com/shwetasaini07/portfolio/assets/38052962/c3db19b9-3cc3-40bc-aae6-35f7b08c9979)
+![Twitter_Logo](https://github.com/shwetasaini07/portfolio/assets/38052962/25929e88-5117-4260-9b04-ec37fa8a7d7b)
 
 - **[Download Code as PDF](https://raw.githubusercontent.com/shwetasaini07/portfolio/master/pdf/Twitter_Sentiment_Analysis.pdf)**
 
