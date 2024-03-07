@@ -9,16 +9,15 @@
 ### Work Experience
 #### Senior Business Analyst @ HealthKart (Mar'2023 - Aug'2023)
 - Key focus areas: Retail and B2C at HealthKart
-- Spearheaded product profitability analysis by creating comprehensive tables and identifying key performance indicators (KPIs) for tracking brand-specific metrics.
-- Analyzed customer data and segmented the audience into high-potential groups for focused marketing campaigns, leading to a 0.2% increase in conversion rates.
-- Streamlined the monthly revenue reporting process by implementing automation using Python, SQL, and Excel, resulting in a reduction of manual efforts by over 90%.
+- Deployed a K-Means clustering model in Python consisting of 50+ datapoints for the company’s focused marketing campaigns leading to a 0.6% increase in the conversion rate for the personal care category
+- Automated month-on-month KPI reports for the CEO’s office using Google Sheets, Python, and SQL improving processes resulting in manual dependency reduction by over 80%
+- Successfully headed and completed the migration of over 200+ dashboards from Qlik Sense to Metabase ensuring seamless data reporting and analytics for cross-functional stakeholders across the organization
 
 #### Data Analyst @ Zomato Ltd. (May'2022 - Dec'2022)
-- Key focus areas:  Online Ordering (Business Finance)
-- Mitigated financial losses by meticulously reconciling data and identifying technical deficiencies in the merchant pay-out system, leading to a 5% reduction in overall losses.
-- Accelerated response to near-expiry items in Inventory by conducting in-depth analysis, facilitating timely returns to vendors, and mitigating adverse impacts on overall revenue.
-- Developed hypothesis for frauds based on trend analysis using SQL and dashboards across various cost levers impacting customer and merchant refunds on rejected orders; Substantially reducing returns.
-- Automated daily revenue numbers, enabling prompt and proactive business actions.
+- Key focus areas: Online Ordering- Business Finance Team 05/2022 – 12/2022
+- Discovered technical flaws in the merchant pay-out system through data reconciliation using SQL and Python, leading to the recovery of the overpaid funds to the merchant
+- Implemented an automated solution utilizing GitHub, Python, and Google Sheets to publish P&L data
+- Led inventory data cleaning project and analysis of the expired products delivering a 2% positive impact on the P&L.
 
   #### Analyst – TATA Consultancy Services 
 - Key focus areas: Apple (POS) application.
