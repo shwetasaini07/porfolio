@@ -7,23 +7,33 @@
 
 
 ### Work Experience
+
+#### Data Engineer Co-Op @ Canada Life (May'2024 - Aug'2024)
+ETL, Automation, Pipeline, Azure Databricks, Azure Data Factory, Spark, Python, SQL 
+- Automation: Automated ETL processes across billions of rows of individual health customer data, reducing manual workload by 30% monthly 
+-	Data Pipeline: Developed data pipelines for marketing campaigns resulting in a 10% increase in conversion rates
+- Stakeholder Collaboration: Collaborated with business partners to improve the efficiency of data governance efforts
+
 #### Senior Business Analyst @ HealthKart (Mar'2023 - Aug'2023)
 - Key focus areas: Retail and B2C at HealthKart
-- Deployed a K-Means clustering model in Python consisting of 50+ datapoints for the company’s focused marketing campaigns leading to a 0.6% increase in the conversion rate for the personal care category
-- Automated month-on-month KPI reports for the CEO’s office using Google Sheets, Python, and SQL improving processes resulting in manual dependency reduction by over 80%
-- Successfully headed and completed the migration of over 200+ dashboards from Qlik Sense to Metabase ensuring seamless data reporting and analytics for cross-functional stakeholders across the organization
+- KPI Reporting: Automated month-on-month KPI reports for the CEO’s office using Google Sheets, Python, and SQL improving processes resulting in manual dependency reduction by over 80% 
+- Data Storytelling: Reduced refund rates by 12% through SQL-based root cause analysis, identified issues related to product defects and customer service lapses
+- Data Dashboard Migration: Led the migration of 200+ data visualization dashboards from Qlik Sense to Metabase, enabling seamless data reporting and gathering 
+- Data Modelling: Deployed a K-Means clustering model in Python consisting of 20+ data points for the company’s focused marketing campaigns resulting in a 0.6% increase in the conversion rate for the personal hair care category
+
 
 #### Data Analyst @ Zomato Ltd. (May'2022 - Dec'2022)
 - Key focus areas: Online Ordering- Business Finance Team 05/2022 – 12/2022
-- Discovered technical flaws in the merchant pay-out system through data reconciliation using SQL and Python, leading to the recovery of the overpaid funds to the merchant
-- Implemented an automated solution utilizing GitHub, Python, and Google Sheets to publish P&L data
-- Led inventory data cleaning project and analysis of the expired products delivering a 2% positive impact on the P&L.
+- Data Reconciliation: Discovered technical flaws in the merchant pay-out system through data reconciliation using SQL and Python, leading to the recovery of INR 200,000 in overpaid funds
+- Automating Dashboards & Reporting: Led the project for automating daily P&L reporting utilizing GitHub, Python, and Google Sheets for the finance team leading to the reduction in manual dependency by 70%
+- Inventory Data Management: Led inventory data cleaning project and analysis of the expired products, delivering a 2% positive impact on the P&L 
 
-  #### Analyst – TATA Consultancy Services 
+
+#### Analyst – TATA Consultancy Services 
 - Key focus areas: Apple (POS) application.
-- Defect Trend Analysis: Conducted in-depth analysis of defect trends over multiple test cycles to identify recurring issues and root causes, leading to a 20% reduction in the defect rate in production.
-- Managed Mac-Trade In expansion in EMEA for Apple (POS), overseeing technical testing, logging exceptional cases, and ensuring smooth integrations in production.
-- Recognized recurrent user behavior patterns and integrated them into test case scenarios.
+- Mac Trade-In Expansion: Managed the Mac Trade-In expansion in EMEA for Apple POS, analysing data to achieve a 15% reduction in software issues
+- Defect Trend Analysis: Performed SQL-based defect trend analysis, identifying recurring issues and reducing defect rates by 20% in production
+- Collaborated with the Apple US team to identify business issues and leveraged analytics to develop solutions
 
 
 ## Data Science Projects (Kaggle)
